@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 #
 # Enable and Disable Palo Alto Networks Global Protect VPN software.
 #
